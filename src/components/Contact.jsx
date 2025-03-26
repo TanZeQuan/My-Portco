@@ -43,10 +43,9 @@ const Contact = () => {
 
   return (
     <div id="contact" className="flex min-h-screen w-full flex-col items-center justify-center gap-16 p-8">
-      <h1 className="text-center text-6xl font-light text-teal-600">
+      <h1 className="text-center text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-light text-teal-600">
         <span className="mr-3">📧 Contact Me</span>
       </h1>
-
       <form ref={formRef} onSubmit={handleSubmit} className="flex w-full max-w-md flex-col gap-8 rounded-lg p-6 md:max-w-lg lg:max-w-xl">
         <div className="flex flex-col gap-4">
           <input
