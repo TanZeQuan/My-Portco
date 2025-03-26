@@ -44,6 +44,10 @@ const Home = () => {
             </span>{" "}
             and a background in supporting <span className="bg-gray-200 px-1 rounded">website content management and development.</span>
           </p>
+
+          <div  className="px-6 sm:px-6 py-2 sm:py-3 text-md sm:text-lg font-semibold text-teal-600 border-0 border-teal-600 rounded-lg shadow-md transition-all transform hover:scale-105 hover:bg-teal-600 hover:text-white m-1 sm:m-2 block sm:inline-block text-center">
+              <a href="https://drive.google.com/file/d/1O9oBOe0QCdAQLZF8_UtffXWdS6fxmqki/view?usp=sharing" target="_blank">Get My Resume</a>
+          </div>
         </div>
 
         {/* Social Media Icons */}

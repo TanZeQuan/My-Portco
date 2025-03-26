@@ -7,31 +7,31 @@ const projects = [
   {
     title: "ISAR Event",
     description:
-      "It serves as a platform for attendees to learn more, sign up, and engage with the event.",
-    techStack: ["Wix Builder"],
+      "Help the organize build a website platform for attendees to learn more, sign up, and engage with the event.",
+    techStack: ["WIX Builder"],
     image: "/project-1.png",
     link: "https://www.isarconference.com",
   },
   {
     title: "Durian Investment Services",
     description:
-      "Promotes Musang King durian investment with a licensed scheme.",
-    techStack: ["Wordpress", "PHP"],
+      "Work with a team to remade the website on the WordPress for a Musang King durian investment.",
+    techStack: ["WordPress", "PHP"],
     image: "/project-2.png",
     link: "https://duriancapital.com.my",
   },
   {
     title: "Business Profile",
     description:
-      "Az Lab's OEM skincare manufacturing, branding, and certification services.",
-    techStack: ["Wix Builder"],
+      "Help company rebuild the website profile, optimization, content enchancements",
+    techStack: ["WIX Builder"],
     image: "/project-3.png",
     link: "https://azlab1301.wixsite.com/my-site",
   },
   {
-    title: "Crypto Payment",
+    title: "Web 3 Project",
     description:
-      "Digital payment solutions for businesses, enabling secure and seamless transactions.",
+      "Assisted in front-end updates, optimizations, and content enhancements for improved performance and UX.",
     techStack: ["React.js", "TailwindCSS", "Node.js"],
     image: "/project-4.png",
     link: "https://www.myubipay.com/",
@@ -42,6 +42,13 @@ const projects = [
     techStack: ["HTML", "CSS"],
     image: "/project-5.png",
     link: "https://relaxed-cuchufli-975b56.netlify.app/",
+  },
+  {
+    title: "Ticket | Marathon",
+    description: "College project",
+    techStack: ["HTML", "CSS","JAVASCRIPT"],
+    image: "/project-6.png",
+    link: "https://zq-project.netlify.app/",
   },
 ];
 
